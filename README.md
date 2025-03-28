@@ -19,3 +19,8 @@ _¿Cuándo se debe hacer?_
     * funciona como comodín para cualquier cadena.
 
     ! antepuesto niega el patrón (incluye archivos que normalmente serían ignorados).
+
+
+Punto 3, apartado g:
+    Se debe a que el contenido del puntero es la dirección de memoria a la cual esta apuntando, que en este caso se refiere a la dirección de la variable y el apartado 3 me pide mostrar la dirección de memoria de la variable.
+    En el apartado 4 obtengo la dirección de memoria en la cual esta almacenada el puntero. 
